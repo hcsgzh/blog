@@ -9,7 +9,7 @@ name: Hugh's Home
 description: Web Developer from China
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://hcsgzh.github.io/blog/images/logo.png
+avatar: {{ site.baseurl }}/images/logo.png # https://hcsgzh.github.io/blog/images/logo.png
 
 #
 # Flags below are optional
