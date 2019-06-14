@@ -1,6 +1,6 @@
 ---
-layout: post
-title: First Post
+layout &#58 post
+title &#58 First Post
 ---
 
 Something in here, I will keep bloging for me and my family.
