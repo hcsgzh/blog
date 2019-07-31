@@ -5,6 +5,12 @@ title: My TODO List
 
 I found that machine learning is interesting. Then I might take a look at Python since there are a lot of resource online to show how to use Python to deal with Data and machine learning stuff.
 
+>Don't spend your time doing work a well-trained monkey could do.
+
+```
+Don't spend your time doing work a well-trained monkey could do.
+```
+
 ### Useful resource
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) at <https://automatetheboringstuff.com/>
@@ -31,6 +37,8 @@ I found that machine learning is interesting. Then I might take a look at Python
 Clear mind and make the goal clearer.
 
 You need to know there are lots of things needed to learn but your time is limited. So make a plan and Todo list with priorities.
+
+----
 
 What do you want? 
 
