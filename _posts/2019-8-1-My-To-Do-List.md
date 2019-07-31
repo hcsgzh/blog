@@ -7,18 +7,18 @@ I found that machine learning is interesting. Then I might take a look at Python
 
 ### Useful resource
 
-- Automate the Boring Stuff with Python at https://automatetheboringstuff.com/
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) at <https://automatetheboringstuff.com/>
 
-- Other materials of Data Science at https://www.quora.com/What-are-the-best-sites-for-learning-Data-Science-1
+- [Other materials of Data Science](https://www.quora.com/What-are-the-best-sites-for-learning-Data-Science-1) at <https://www.quora.com/What-are-the-best-sites-for-learning-Data-Science-1>
 
-- Self-teaching plan and material at https://github.com/jwasham/coding-interview-university
+- [Self-teaching plan and material](https://github.com/jwasham/coding-interview-university) at <https://github.com/jwasham/coding-interview-university>
 
-- C++ learning
+- **C++ learning**
 
 
 ### List of things 
 
-- Starting Out with C++ from Control Structures to Objects 9th
+- **Starting Out with C++ from Control Structures to Objects 9th**
 
 - Beginning Linux Programming, 4 Ed
 
