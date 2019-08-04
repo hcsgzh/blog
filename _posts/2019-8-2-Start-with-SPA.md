@@ -11,4 +11,4 @@ SPA is stand for Single Page Application. It sonds boring because it sonds
 
 google drive stored mp3 fo testing
 
-<audio src="https://cors-anywhere.herokuapp.com/https://drive.google.com/file/d/1Pn_8pPx1M4Kg8GN9lEGu_MgNNjv-8fiH/view?usp=sharing" controls preload>google drive testing</audio>
+<audio src="https://cors-anywhere.herokuapp.com/https://drive.google.com/file/d/1Pn_8pPx1M4Kg8GN9lEGu_MgNNjv-8fiH.mp3" controls preload>google drive testing</audio>
