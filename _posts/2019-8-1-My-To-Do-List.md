@@ -7,9 +7,7 @@ I found that machine learning is interesting. Then I might take a look at Python
 
 >Don't spend your time doing work a well-trained monkey could do.
 
-```
-Don't spend your time doing work a well-trained monkey could do.
-```
+
 
 ### Useful resource
 
